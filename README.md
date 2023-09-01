@@ -1,5 +1,5 @@
 # NETFLIX-clone-using-HTML-CSS
-🎬 Netflix Landing Page Clone 🍿
+🎬 Netflix Landing Page Clone 🍿--https://shettyv985.github.io/NETFLIX-clone-using-HTML-CSS/
 
 Welcome to the Netflix Landing Page Clone project, a stunning replication of Netflix's iconic user interface using HTML and CSS.
 
