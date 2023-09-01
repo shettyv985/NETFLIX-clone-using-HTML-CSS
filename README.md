@@ -143,3 +143,4 @@ This CSS file is responsible for styling the elements in your Netflix landing pa
 
 This CSS file plays a crucial role in defining the visual layout and appearance of your Netflix landing page, making it both functional and visually appealing.
 
+
